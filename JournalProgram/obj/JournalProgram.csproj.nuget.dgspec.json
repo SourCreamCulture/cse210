@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bigdog/Developer/cse210/JournalProgram/JournalProgram.csproj": {}
+    "/Users/bigdog/Developer/cse210/cse210/JournalProgram/JournalProgram.csproj": {}
   },
   "projects": {
-    "/Users/bigdog/Developer/cse210/JournalProgram/JournalProgram.csproj": {
+    "/Users/bigdog/Developer/cse210/cse210/JournalProgram/JournalProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bigdog/Developer/cse210/JournalProgram/JournalProgram.csproj",
+        "projectUniqueName": "/Users/bigdog/Developer/cse210/cse210/JournalProgram/JournalProgram.csproj",
         "projectName": "JournalProgram",
-        "projectPath": "/Users/bigdog/Developer/cse210/JournalProgram/JournalProgram.csproj",
+        "projectPath": "/Users/bigdog/Developer/cse210/cse210/JournalProgram/JournalProgram.csproj",
         "packagesPath": "/Users/bigdog/.nuget/packages/",
-        "outputPath": "/Users/bigdog/Developer/cse210/JournalProgram/obj/",
+        "outputPath": "/Users/bigdog/Developer/cse210/cse210/JournalProgram/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bigdog/.nuget/NuGet/NuGet.Config"
