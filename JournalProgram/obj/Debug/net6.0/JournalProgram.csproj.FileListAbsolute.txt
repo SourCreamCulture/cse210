@@ -1,0 +1,14 @@
+/Users/bigdog/Developer/cse210/JournalProgram/bin/Debug/net6.0/JournalProgram
+/Users/bigdog/Developer/cse210/JournalProgram/bin/Debug/net6.0/JournalProgram.deps.json
+/Users/bigdog/Developer/cse210/JournalProgram/bin/Debug/net6.0/JournalProgram.runtimeconfig.json
+/Users/bigdog/Developer/cse210/JournalProgram/bin/Debug/net6.0/JournalProgram.dll
+/Users/bigdog/Developer/cse210/JournalProgram/bin/Debug/net6.0/JournalProgram.pdb
+/Users/bigdog/Developer/cse210/JournalProgram/obj/Debug/net6.0/JournalProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bigdog/Developer/cse210/JournalProgram/obj/Debug/net6.0/JournalProgram.AssemblyInfoInputs.cache
+/Users/bigdog/Developer/cse210/JournalProgram/obj/Debug/net6.0/JournalProgram.AssemblyInfo.cs
+/Users/bigdog/Developer/cse210/JournalProgram/obj/Debug/net6.0/JournalProgram.csproj.CoreCompileInputs.cache
+/Users/bigdog/Developer/cse210/JournalProgram/obj/Debug/net6.0/JournalProgram.dll
+/Users/bigdog/Developer/cse210/JournalProgram/obj/Debug/net6.0/refint/JournalProgram.dll
+/Users/bigdog/Developer/cse210/JournalProgram/obj/Debug/net6.0/JournalProgram.pdb
+/Users/bigdog/Developer/cse210/JournalProgram/obj/Debug/net6.0/JournalProgram.genruntimeconfig.cache
+/Users/bigdog/Developer/cse210/JournalProgram/obj/Debug/net6.0/ref/JournalProgram.dll
